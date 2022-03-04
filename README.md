@@ -1,4 +1,4 @@
-# merge-conflits-WCS
+REMOTE
 KFC
 KFC
 KFC
