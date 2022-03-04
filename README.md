@@ -1,4 +1,4 @@
-# merge-conflits-WCS
+LOCAL
 KFC
 KFC
 KFC
