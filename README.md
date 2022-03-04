@@ -1,1 +1,4 @@
 REMOTE
+KFC 
+AKALI
+WTF ?
